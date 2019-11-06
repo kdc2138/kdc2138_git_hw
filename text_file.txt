@@ -1,3 +1,5 @@
 This is a text file.
 
 It has text.
+
+Changing the file - this line was added.
